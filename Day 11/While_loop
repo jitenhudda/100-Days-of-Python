@@ -1,0 +1,21 @@
+## Day 11 - While Loop
+
+A `while` loop executes a block of code repeatedly as long as a condition is `True`.
+
+## Key Concepts
+
+- Used for repetitive tasks.
+- Runs until the condition becomes `False`.
+- Requires proper condition updates to avoid infinite loops.
+- Commonly used when the number of iterations is not fixed.
+
+## Key Points
+
+- `while` checks the condition before each iteration.
+- Loop variables are used to control execution.
+- Increment or decrement is important inside the loop.
+- Can be used to generate tables, patterns, and repeated calculations.
+
+## Quick Revision
+
+A `while` loop repeatedly executes code until its condition becomes `False`.
